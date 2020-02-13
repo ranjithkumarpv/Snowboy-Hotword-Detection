@@ -1,16 +1,13 @@
 # Snowboy Hotword Detection
 
-by [KITT.AI](http://kitt.ai).
+
 
 [Home Page](https://snowboy.kitt.ai)
 
 [Full Documentation](http://docs.kitt.ai/snowboy) and [FAQ](http://docs.kitt.ai/snowboy#faq)
 
-[Discussion Group](https://groups.google.com/a/kitt.ai/forum/#!forum/snowboy-discussion) (or send email to snowboy-discussion@kitt.ai)
 
-(The discussion group is new since September 2016 as we are getting many messages every day. Please send general questions there. For bugs, use Github issues.)
-
-Version: 1.1.1 (3/24/2017)
+Version: 1.1.1 
 
 ## Alexa support
 
